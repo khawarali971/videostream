@@ -5,13 +5,10 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-      "start": " budo app.js"
+      "start": "app.js"
   },
   "author": "khawar ali",
   "license": "ISC",
-    "devDependencies":{
-      "budo": "^4.1.0"  
-    },
   "dependencies": {
     "getusermedia": "^2.0.0",
     "simple-peer": "^6.0.4"
